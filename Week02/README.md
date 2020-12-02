@@ -1,1 +1,1 @@
-学习笔记
+因为dao，businiess，service， 到处抛出异常，那么就很乱， 这就需要Wrap 
