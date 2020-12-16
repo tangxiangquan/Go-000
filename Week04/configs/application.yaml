@@ -1,0 +1,4 @@
+database:
+  dsn: admin:root@tcp(localhost:3306)/crm?charset=utf8
+server:
+  addr: :8080
